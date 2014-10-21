@@ -1,0 +1,10 @@
+This is the software implementation of GoppaCode encoding and decoding using SAGE. DataCollectionScript.py serves as the main programme.
+
+You can find these papers useful:
+ 	"How SAGE helps to implement Goppa Codes and McEliece PKCSs", Thomas Risse
+	"Coding Theory-Based Cryptopraphy: McEliece Cryptosystems in Sage", Christopher Roering
+	"Generating Goppa Codes", Thomas Risse
+	"List decoding for binary Goppa codes", Daniel J. Bernstein
+	
+	
+
